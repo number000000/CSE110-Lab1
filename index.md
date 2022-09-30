@@ -36,11 +36,10 @@ int main() {
 ## Who am I?
 I'm a thrid-year Computer Engineering student in UCSD. I'm from Shenzhen, China. I like playing games (either board games or video games). I've been playing BrawlStars, The Witcher3, Fall Guys, and Hades recently. I'm really looking forward to the new Legend of Zelda: Tears of the Kingdom 😊. I also like baking. I've made cookies and cakes. I also indulged myself in bread making. I even tried put together some toast recipes myself.
 > **Some of my past works:**
-\
-<img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/cookie1.jpeg" width="350" height="250"> <img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/cookie2.jpg" width="250" height="250">
-\
-<img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/bread1.jpeg" width="320" height="250"> <img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/toast.jpeg" width="400" height="250">
-![test](/imgs/bread1.jpeg)
+![Butter Cookies](/imgs/cookie1.jpeg)
+![Matcha Cookies](/imgs/cookie2.jpg)
+![Red Bean Bread](/imgs/bread1.jpeg)
+![Toast](/imgs/toast.jpeg)
 
 ## Me as a programmer
 ### Programming languages
