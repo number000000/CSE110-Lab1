@@ -40,6 +40,7 @@ I'm a thrid-year Computer Engineering student in UCSD. I'm from Shenzhen, China.
 <img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/cookie1.jpeg" width="350" height="250"> <img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/cookie2.jpg" width="250" height="250">
 \
 <img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/bread1.jpeg" width="320" height="250"> <img src="https://github.com/number000000/CSE110-Lab1/blob/new-branch/imgs/toast.jpeg" width="400" height="250">
+![test](/imgs/bread1.jpeg)
 
 ## Me as a programmer
 ### Programming languages
