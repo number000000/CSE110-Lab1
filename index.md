@@ -49,6 +49,7 @@ I'm a thrid-year Computer Engineering student in UCSD. I'm from Shenzhen, China.
 - A little bit of Python
 - A little bit of MATLAB
 \
+\
 I'm willing to learn new things😃.
 
 ## Contact me
@@ -56,6 +57,6 @@ I'm willing to learn new things😃.
 - [ ] 📧meihuilmaggie@gmail.com
 \
 \
-_This site was built using [GitHub Pages](https://pages.github.com/) and [Markdown Documents](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links)._
+_This site was built using [GitHub Pages](https://pages.github.com/) and [Markdown Document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#section-links)._
 \
 _Here are all the [pictures](/imgs) used in this page._
