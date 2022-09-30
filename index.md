@@ -1,5 +1,14 @@
 # Meihui's User Page
-**_Greetings_**
+## Table of Contents
+[▶️](#greetings)**Greetings**
+\
+[▶️](#who-am-i)**Who am I?**
+\
+[▶️](#me-as-a-programmer)**Me as a programmer**
+\
+[▶️](#contact-me)**Contact me**
+
+## **_Greetings_**
 1. Java
 ```java
 class HelloWorld {
@@ -39,6 +48,8 @@ I'm a thrid-year Computer Engineering student in UCSD. I'm from Shenzhen, China.
 - Java
 - A little bit of Python
 - A little bit of MATLAB
+\
+I'm willing to learn new things😃.
 
 ## Contact me
 - [ ] 📧mel013@ucsd.edu
